@@ -1,0 +1,30 @@
+.about-us {
+  background-color: var(--about-us-background-color);
+}
+.about-us-content__text {
+  padding: 10rem 13.625rem;
+  text-align: center;
+}
+.about-us-content__title {
+  margin-bottom: 0.9375rem;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 3.75em;
+  color: var(--global-text-color);
+}
+.about-us-content__subtitle {
+  margin-bottom: 0.625rem;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 1.6875em;
+  color: var(--global-text-color);
+}
+.about-us-content__secondary-text {
+  color: var(--about-us-secondary-text);
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 1.25em;
+}

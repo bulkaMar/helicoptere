@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --header-nav-background-color: #ffffff;
+  --header-nav-button: rgba(122, 229, 253, 1);
+  --global-text-color: #000000;
+  --header-hero-text-color: #ffffff;
+  --header-hero-button: #ffffff;
+  --about-us-background-color: #ffffff;
+  --about-us-secondary-text: rgba(115, 166, 177, 1);
+  scroll-behavior: smooth;
+}
+img {
+  display: block;
+  width: 100%;
+}
+iframe {
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+.container {
+  max-width: 100vw;
+  padding: 0 2vw;
+}
